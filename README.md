@@ -1,0 +1,2 @@
+# tix
+* This project will make tool zip file. I will implement some method to increase security for content file. You can use tool winrar and other to unzip. But file in folder unzip is encrypt my tool.
